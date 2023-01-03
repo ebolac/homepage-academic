@@ -29,8 +29,11 @@ authors:
   - Christoph R. Meier
   - Julia Spoendlin
 author_notes:
-  - Affiliation CaM
-  - Affiliation NF
+  - Basel Pharmacoepidemiology Unit (Division of Clinical Pharmacy and
+    Epidemiology; Department of Pharmaceutical Sciences; University of Basel;
+    Basel; Switzerland & Hospital Pharmacy (University Hospital Basel; Basel;
+    Switzerland)
+  - Affiliation
 publication: ""
 summary: ""
 url_dataset: ""
