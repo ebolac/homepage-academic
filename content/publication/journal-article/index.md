@@ -30,8 +30,9 @@ authors:
   - Julia Spoendlin
 author_notes:
   - 1) Basel Pharmacoepidemiology Unit (Division of Clinical Pharmacy and
-    Epidemiology; Department of Pharmaceutical Sciences; University of Basel;
-    Basel; Switzerland; 2) Hospital Pharmacy (University Hospital Basel; Basel;
+    Epidemiology
+  - Department of Pharmaceutical Sciences; University of Basel; Basel;
+    Switzerland; 2) Hospital Pharmacy (University Hospital Basel; Basel;
     Switzerland)
   - Affiliation
 publication: ""
