@@ -4,7 +4,7 @@ subtitle: Test Untertitel
 date: 2023-01-03T09:59:24.584Z
 summary: D﻿as ist eine Test Zusammenfassung
 draft: false
-featured: false
+featured: true
 authors:
   - Marxer
 tags:
