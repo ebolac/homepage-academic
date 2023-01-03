@@ -21,14 +21,13 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Marxer
-  - Carole A. and Frey
-  - Noel and Bodmer
-  - Michael and Bircher
-  - Andreas and Jick
-  - Susan S. and Meier
-  - Christoph R. and Spoendlin
-  - Julia
+  - Carole A. Marxer
+  - Noel Frey
+  - Michael Bodmer
+  - Andreas Bircher
+  - Susan S. Jick
+  - Christoph R. Meier
+  - Julia Spoendlin
 author_notes:
   - Affiliation CaM
   - Affiliation NF
@@ -49,7 +48,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2023-01-03T18:42:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
