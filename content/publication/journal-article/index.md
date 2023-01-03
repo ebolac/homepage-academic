@@ -29,9 +29,9 @@ authors:
   - Christoph R. Meier
   - Julia Spoendlin
 author_notes:
-  - Basel Pharmacoepidemiology Unit (Division of Clinical Pharmacy and
+  - 1) Basel Pharmacoepidemiology Unit (Division of Clinical Pharmacy and
     Epidemiology; Department of Pharmaceutical Sciences; University of Basel;
-    Basel; Switzerland & Hospital Pharmacy (University Hospital Basel; Basel;
+    Basel; Switzerland; 2) Hospital Pharmacy (University Hospital Basel; Basel;
     Switzerland)
   - Affiliation
 publication: ""
