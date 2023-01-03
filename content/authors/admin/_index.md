@@ -61,7 +61,7 @@ education:
     - course: BSc in Pharmaceutical Sciences
       institution: University of Basel (Department of Pharmaceutical Sciences)
       year: 2014
-superuser: true
+superuser: false
 status:
   icon: ☕️
 last_name: Wu
