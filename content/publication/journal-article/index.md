@@ -30,8 +30,8 @@ authors:
   - Christoph R. and Spoendlin
   - Julia
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Affiliation CaM
+  - Affiliation NF
 publication: ""
 summary: ""
 url_dataset: ""
