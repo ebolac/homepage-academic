@@ -1,5 +1,5 @@
 ---
-title: Carole Marxer
+title: Dr. Carole Marxer
 role: Postdoctoral Researcher in Pharmaco- and Disease Epidemiology
 avatar_filename: cmarxer.jpg
 bio: My research interests include ...
