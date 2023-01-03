@@ -48,7 +48,9 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: "Image credit:
+    [**Unsplash**](https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-5-\
+    39)"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
