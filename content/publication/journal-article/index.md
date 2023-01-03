@@ -38,7 +38,7 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: Journal of Investigative Dermatology (JID)
 url_source: ""
 url_video: ""
 title: "Survival after Stevens-Johnson Syndrome or Toxic Epidermal Necrolysis: A
